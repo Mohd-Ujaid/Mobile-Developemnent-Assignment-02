@@ -21,6 +21,12 @@
 
 ## 🎬 Video Preview
 
+---
+
+[Video Preview](https://ik.imagekit.io/ytb96aypi/assignment/preview.mp4?updatedAt=1778422970932)
+
+---
+
 <video controls width="800" height="600">
     <source src="https://ik.imagekit.io/ytb96aypi/assignment/preview.mp4?updatedAt=1778422970932" type="video/mp4">
     Your browser does not support the video tag.
